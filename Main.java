@@ -12,7 +12,7 @@ public static void main(String[] args) {
 
     Date now =new Date();
     System.out.println(now);
-
+// array of integers
    int [] numbers={ 8,9,7,0};
 System.out.println( Arrays.toString(numbers));
 Arrays.sort(numbers);
