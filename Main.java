@@ -3,6 +3,7 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
+import java.util.Scanner;
 
 public class Main {
 
@@ -19,6 +20,7 @@ Arrays.sort(numbers);
 System.out.println( Arrays.toString(numbers));
 System.out.println(numbers.length);
 
+Scanner scan=new Scanner( System.in);
 
 
   
